@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "710953470308.png"
+  avatar           : "images/710953470308.png"
   name             : "Dilipkumar Jayaraj"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
