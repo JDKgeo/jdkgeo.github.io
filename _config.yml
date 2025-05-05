@@ -27,7 +27,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Ocean Optics researcher, Senior Research Fellow at IIT Madras"
   location         : "India"
-  employer         : "Red Brick University"
+  employer         : "Indian Institute of Technology Madras"
   uri              : # URL
   email            : "dilipkumargeo@gmail.com" 
 
@@ -38,7 +38,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-8061-0663"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : "https://www.researchgate.net/profile/Dilipkumar-Jayaraj"
   scopus           : # URL
 
