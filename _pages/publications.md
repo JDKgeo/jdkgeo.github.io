@@ -8,6 +8,9 @@ author_profile: true
 ### Journals
  * [MPB 2023] **Jayaraj Dilipkumar**, and Palanisamy Shanmugam (2024), "**Fuzzy-based global water quality assessment and water quality cells identification using satellite data**", in *Marine Pollution Bulletin,*Volume 193, 2023, 115148, ISSN 0025-326X.[[Link]](https://doi.org/10.1016/j.marpolbul.2023.115148).
 
+ * [NH 2025] **Jayaraj Dilipkumar**, and Palanisamy Shanmugam (2025), "**Quantitative assessment of coastal water quality influenced by extreme events using satellite data**", in *Natural Hazards,* (under review).
+
+
 
 
 ### Conference Papers
