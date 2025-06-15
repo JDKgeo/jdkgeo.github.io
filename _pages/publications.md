@@ -4,6 +4,12 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+
+### Journals
+ * [MPB 2023] **Jayaraj Dilipkumar**, and Palanisamy Shanmugam (2024), "**Fuzzy-based global water quality assessment and water quality cells identification using satellite data**", in *Marine Pollution Bulletin,*Volume 193, 2023, 115148, ISSN 0025-326X.[[Link]](https://doi.org/10.1016/j.marpolbul.2023.115148).
+
+
+
 ### Conference Papers
 
  * [CCS 2023] Pansilu Pitigalaarachchi, Xuhua Ding, Haiqing Qiu, **Haoxin Tu**, Jiaqi Hong, and Lingxiao Jiang, "**KRover: A Symbolic Execution Engine for Dynamic Kernel Analysis**", in *Proceedings of the 2023 ACM SIGSAC Conference on Computer and Communications Security (CCS 2023)*. [[PDF]](https://haoxintu.github.io/files/ccs2023_krover.pdf) [[Code]](https://github.com/KRoverSystems/KRover)
@@ -12,8 +18,7 @@ author_profile: true
  * [ISSRE 2022] **Haoxin Tu**, He Jiang, Xiaochen Li, Zhilei Ren, Zhide Zhou, and Lingxiao Jiang, "**RemGen: Remanufacturing A Random Program Generator for Compiler Testing**", in *the 33rd IEEE International Symposium on Software Reliability Engineering (ISSRE 2022)*. [[PDF]](https://haoxintu.github.io/files/issre2022-camera-ready.pdf) [[Code]](https://github.com/haoxintu/RemCCG) [[Slides]](https://haoxintu.github.io/files/RemGen-slides.pdf)
 
 
-### Journals
- * [MPB 2023] **Jayaraj Dilipkumar**, and Palanisamy Shanmugam (2024), "**Fuzzy-based global water quality assessment and water quality cells identification using satellite data**", in *Marine Pollution Bulletin,*Volume 193, 2023, 115148, ISSN 0025-326X.[[Link]]([https://doi.org/10.1016/j.marpolbul.2023.115148].
+
  * [TSE 2024] **Haoxin Tu**, Lingxiao Jiang, Jiaqi Hong, Xuhua Ding, and He Jiang, "**Concretely Mapped Symbolic Memory Locations for Memory Error Detection**", in *IEEE Transactions on Software Engineering*, 2024. [[PDF]](https://haoxintu.github.io/files/SymLoc_TSE2024_Just_Accepted.pdf) [[Code]](https://github.com/haoxintu/SymLoc)
      * Also presented within *Journal first Paper Track* of the 39th IEEE/ACM International Conference on Automated Software Engineering (ASE 2024), Sacramento, California, United States.
  * [TR 2022] **Haoxin Tu**, He Jiang, Zhide Zhou, Yixuan Tang, Zhilei Ren, Lei Qiao, and Lingxiao Jiang, "**Detecting C++ Compiler Front-end Bugs via Grammar Mutation and Differential Testing**", in *IEEE Transactions on Reliability*, 2022. [[IEEE Early Access]](https://ieeexplore.ieee.org/document/9777893) [[Authors' Draft]](https://haoxintu.github.io/files/tr-2022-draft.pdf) [[Bug Reports]](https://github.com/haoxintu/CCOFT/blob/main/reported-bugs.md)
