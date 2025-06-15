@@ -18,7 +18,7 @@ author_profile: true
 
 * [Ocean Optics 2024] **Jayaraj Dilipkumar** and Palanisamy Shanmugam (2024). “**Anthropogenic Impact Assessment on Coral Reefs ecosystem in Gulf of Mannar using Optical Remote Sensing Data**,” **Ocean Optics XXVI** in Las Palmas de Gran Canaria, Spain, (6-11 October 2024) (poster presentation).
   
-* [Ocean Optics 20243] Murugan Karthick, **Jayaraj Dilipkumar**, Chavapati Gouse Sandhani, and Palanisamy Shanmugam (2024). “**UAV Hyperspectral Image-Based Detection of Peridinium Quinquecorne Blooms Using Ensemble XGBoost Machine Learning Model: A Case Study of the Kumbalangi Backwater in Kerala, India**,” **Ocean Optics XXVI**, Las Palmas de Gran Canaria, Spain, (6-11 October 2024) (poster presentation).
+* [Ocean Optics 2024] Murugan Karthick, **Jayaraj Dilipkumar**, Chavapati Gouse Sandhani, and Palanisamy Shanmugam (2024). “**UAV Hyperspectral Image-Based Detection of Peridinium Quinquecorne Blooms Using Ensemble XGBoost Machine Learning Model: A Case Study of the Kumbalangi Backwater in Kerala, India**,” **Ocean Optics XXVI**, Las Palmas de Gran Canaria, Spain, (6-11 October 2024) (poster presentation).
 
 * [WOSC 2024] **Jayaraj Dilipkumar** and Palanisamy Shanmugam (2024). “**Novel multi-satellite based assessment of the coastal water quality: An operational approach for continuous monitoring**,” **WOSC-2024**, Chennai, India (27-29 February 2024).
 
