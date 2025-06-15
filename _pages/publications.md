@@ -22,20 +22,3 @@ author_profile: true
 
 * [WOSC 2024] **Jayaraj Dilipkumar** and Palanisamy Shanmugam (2024). “**Novel multi-satellite based assessment of the coastal water quality: An operational approach for continuous monitoring**,” **WOSC-2024**, Chennai, India (27-29 February 2024).
 
-
-
-
-
-
-
-
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
